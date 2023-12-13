@@ -25,3 +25,5 @@ With the onset of the project the parameter carat was considered the most essent
 Furthermore we also stated that the cut, clarity plays a vital role in the pricing. This was proved wrong due to the constant value of R sq.
 Apart from this we concluded that the colour does not play a factor in the pricing thus proving our stated hypothesis correct.
 The last possibility that was considered was the non-contribution of table towards the value. This hypothesis was proved wrong due to variation in the R sq value in its presence and absence.
+
+### Note: This analysis is for the given dataset only, in real world the analysis might come out different from our conclusion
